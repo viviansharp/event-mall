@@ -1,0 +1,57 @@
+.navbar{
+    background-color: brown !important;
+    height:150px; 
+}
+
+.navbar-brand{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.content{
+    background-color:gray;
+    padding-left:30px;
+    text-align:center;
+    margin-top:30px;
+    color:white;
+}
+
+.notify{
+    position:fixed;
+    bottom:5px;
+    right:5px;
+
+}
+.contentH{
+    color:black;
+    font-family: nunito,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
+}
+.contentp{
+    color:gold;
+}
+
+.form-control{
+    width:100px;
+    height:30px;
+}
+.card{
+    margin-top:20px;
+    margin-bottom:30px;
+    bottom:10px;
+    border: none;
+   
+
+}
+
+
+
+@media (min-width: 576px) { }
+
+
+@media (min-width: 768px) { }
+
+
+@media (min-width: 992px) { }
+
+
+@media (min-width: 1200px) { }
